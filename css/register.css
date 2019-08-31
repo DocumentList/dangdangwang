@@ -1,0 +1,131 @@
+.register{
+	width: 100%;
+}
+.regi-header{
+	width:85% ;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-bottom: 50px;
+}	
+.regiHeader-img{
+	width: 100%;
+	margin: 0 auto;
+	
+}
+
+.regiHeader-img img:nth-of-type(2){
+	float: right;
+}
+.regi-content{
+	width: 85%;
+	margin: 0 auto;
+}
+.regiC-content{
+	
+	overflow: hidden;
+}
+.regiCc-left{
+	float: left;
+}
+.regiCc-right{
+	width: 374px;
+	float: right;
+	margin-top: 19px;
+	margin-bottom: 50px;
+}
+.regiCCr-content{
+	border: 1px solid #E3E3E3;
+	position: relative;
+}
+.regiCCR-content{
+	width: 83%;
+	margin: 0 auto;
+}
+.regiCCR-content>p:nth-of-type(1){
+	font-size: 25px;
+	color: black;
+	margin-top: 20px;
+}
+.regiCCR-content input:nth-of-type(1){
+	margin-bottom: 20px;
+	width: 307px;
+	height: 37px;
+	margin-top: 10px;
+	padding-left: 41px;
+}
+.regiCCR-content input:nth-of-type(2){
+	margin-bottom: 25px;
+	width: 307px;
+	height: 37px;
+	margin-top: 10px;
+	padding-left: 41px;
+}
+.regiCCR-content>p:nth-of-type(2) span{
+	display: inline-block;
+	float: right;
+	color: blue;
+}
+.regiCCR-content>p:nth-of-type(2) span:hover{
+	cursor: pointer;
+	text-decoration: underline;
+}
+.regiCCR-content input:nth-of-type(3){
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+.regiCCR-content>span:nth-of-type(1){
+	display: inline-block;
+	float: right;
+	color: blue;
+	margin-top: 8px;
+	margin-bottom: 15px;
+}
+.regiCCR-content>span:nth-of-type(1):hover{
+	cursor: pointer;
+	text-decoration: underline;
+}
+.regiCCR-content button{
+	width: 308px;
+	height: 47px;
+	background-color: red;
+	color: white;
+	border-radius: 10px;
+	border: 1px solid transparent;
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+.regiCCR-content>span:nth-of-type(2){
+	color: #969896;
+}
+.regiCCR-content>span:nth-of-type(3){
+	color: #969896;
+	display: inline-block;
+	float: right;
+}
+
+.regiCCR-content>span:nth-of-type(3):hover{
+	cursor: pointer;
+	text-decoration: underline;
+}
+.footer4{
+	border-top: 1px solid #E3E3E3;
+}
+.foooter4-content{
+	margin-top: 40px;
+}
+
+.ico123 span:nth-of-type(1){
+	position: absolute;
+	left: 44px;
+	top: 76px;
+	font-size: 24px;
+}
+.ico123 span:nth-of-type(2){
+	position: absolute;
+	left: 48px;
+	top: 145px;
+	font-size: 19px;
+}
+.regiCc-right>img{
+	width: 375px;
+}

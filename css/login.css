@@ -1,0 +1,58 @@
+.loginBox{
+	widows: 100%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-bottom: 1px solid #E3E3E3;
+}
+.loginBox-content{
+	margin: 0 auto;
+	width: 60%;
+}
+.loginBC-header>p{
+	width: 100px;
+	height: 50px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.loginBoxC-content{
+	width: 80%;
+	margin: 0 auto;
+}
+.loginBCC-content{
+	width: 80%;
+	margin: 0 auto;
+	color: #969896;
+	
+}
+.loginBCc-content{
+	width: 80%;
+	margin: 0 auto;
+	color: #969896;
+	position: relative;
+	
+}
+.loginBCc-content input{
+	margin-bottom: 28px;
+	padding-left: 10px;
+}
+.loginBCc-content p{
+	position: absolute;
+	left: 85px;
+	top: 32px;
+	font-size: 7px;
+}
+.buttonM{
+	width: 30%;
+	margin: 0 auto;
+}
+.buttonM button{
+	width: 152px;
+	height: 50px;
+	background-color: red;
+	color: white;
+	border-radius: 20px;
+	border: 1px solid transparent;
+	margin: 0 auto;
+	font-size: 20px;
+	margin-bottom: 30px;
+}
